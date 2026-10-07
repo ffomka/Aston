@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="474" height="442" alt="Screenshot_6" src="https://github.com/user-attachments/assets/bb8c3700-65de-4579-91bf-7cb506668bf4" />
 
 # StudentManager — Консольное приложение для управления студентами
 
