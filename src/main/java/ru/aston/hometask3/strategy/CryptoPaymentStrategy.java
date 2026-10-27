@@ -1,3 +1,5 @@
+package ru.aston.hometask3.strategy;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 

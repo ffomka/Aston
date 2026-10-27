@@ -1,3 +1,6 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.proxy.MenuProxy;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

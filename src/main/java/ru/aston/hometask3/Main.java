@@ -1,3 +1,21 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.builder.CoffeeOrder;
+import ru.aston.hometask3.decorator.Coffee;
+import ru.aston.hometask3.decorator.MilkDecorator;
+import ru.aston.hometask3.decorator.SimpleCoffee;
+import ru.aston.hometask3.decorator.SyrupDecorator;
+import ru.aston.hometask3.strategy.PaymentStrategy;
+import ru.aston.hometask3.strategy.CardPaymentStrategy;
+import ru.aston.hometask3.strategy.CashPaymentStrategy;
+import ru.aston.hometask3.strategy.CryptoPaymentStrategy;
+import ru.aston.hometask3.adapter.BankApiAdapter;
+import ru.aston.hometask3.adapter.OldBankApi;
+import ru.aston.hometask3.chainofresponsibility.IngredientCheckHandler;
+import ru.aston.hometask3.chainofresponsibility.PaymentCheckHandler;
+import ru.aston.hometask3.proxy.Menu;
+import ru.aston.hometask3.proxy.MenuProxy;
+
 import java.math.BigDecimal;
 
 /**

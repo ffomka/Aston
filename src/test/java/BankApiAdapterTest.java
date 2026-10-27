@@ -1,3 +1,7 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.adapter.OldBankApi;
+import ru.aston.hometask3.adapter.BankApiAdapter;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

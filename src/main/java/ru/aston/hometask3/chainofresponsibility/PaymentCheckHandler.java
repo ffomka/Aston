@@ -1,3 +1,5 @@
+package ru.aston.hometask3.chainofresponsibility;
+
 /**
  * Обработчик проверки оплаты.
  * Проверяет, оплачен ли заказ.

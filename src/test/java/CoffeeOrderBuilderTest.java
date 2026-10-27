@@ -1,3 +1,6 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.builder.CoffeeOrder;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

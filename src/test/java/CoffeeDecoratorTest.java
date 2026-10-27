@@ -1,3 +1,9 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.decorator.Coffee;
+import ru.aston.hometask3.decorator.SimpleCoffee;
+import ru.aston.hometask3.decorator.MilkDecorator;
+import ru.aston.hometask3.decorator.SyrupDecorator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

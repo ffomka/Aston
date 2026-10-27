@@ -1,3 +1,5 @@
+package ru.aston.hometask3.decorator;
+
 /**
  * Базовый класс — простой кофе без добавок.
  * Реализация интерфейса Coffee.

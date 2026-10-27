@@ -1,3 +1,8 @@
+package ru.aston.hometask3;
+
+import ru.aston.hometask3.chainofresponsibility.IngredientCheckHandler;
+import ru.aston.hometask3.chainofresponsibility.PaymentCheckHandler;
+import ru.aston.hometask3.chainofresponsibility.OrderHandler;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

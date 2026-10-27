@@ -1,3 +1,6 @@
+package ru.aston.hometask3.adapter;
+
+import ru.aston.hometask3.strategy.PaymentStrategy;
 import java.math.BigDecimal;
 
 /**
